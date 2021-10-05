@@ -1,0 +1,26 @@
+body {
+  background-image: url(aaaa.jpg);
+}
+H1 {
+  font-size: 40px;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+  color: #c70000;
+}
+h2 {
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+  color: #c70000;
+}
+div {
+  background-color: white;
+  max-width: 300px;
+  font-size: 20px;
+  text-align: center;
+  border: 5px dashed #c70000;
+}
+
+a {
+  font-size: 20px;
+  color: black;
+}
